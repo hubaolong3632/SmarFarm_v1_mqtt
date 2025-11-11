@@ -1,7 +1,7 @@
 package com.example.smarfarm_v1_mqtt.utio.model;
 
 
-import com.example.enterpriseWeChat.utio.UtioY;
+import com.example.smarfarm_v1_mqtt.utio.UtioY;
 import lombok.Data;
 
 import java.util.HashMap;

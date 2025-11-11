@@ -1,7 +1,7 @@
 package com.example.smarfarm_v1_mqtt.utio.UtioClass;
 
 import com.alibaba.fastjson2.filter.SimplePropertyPreFilter;
-import com.example.enterpriseWeChat.utio.UtioY;
+import com.example.smarfarm_v1_mqtt.utio.UtioY;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 

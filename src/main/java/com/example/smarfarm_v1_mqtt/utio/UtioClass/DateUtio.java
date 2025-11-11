@@ -8,7 +8,7 @@ import java.time.temporal.ChronoUnit;
 import java.util.Date;
 
 public class DateUtio {
- private  static SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");// 时间格式式
+ private  static final SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");// 时间格式式
     public static String dateDay_String(){ //获取当前在线时间
         String customDateStr = dateFormat.format(new Date());
         return customDateStr; //返回时间

@@ -1,6 +1,6 @@
 package com.example.smarfarm_v1_mqtt.utio.config;
 
-import com.example.enterpriseWeChat.utio.UtioClass.JwtUtio;
+import com.example.smarfarm_v1_mqtt.utio.UtioClass.JwtUtio;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
