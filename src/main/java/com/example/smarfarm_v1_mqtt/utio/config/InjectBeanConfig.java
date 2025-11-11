@@ -30,7 +30,4 @@ public class InjectBeanConfig  implements WebMvcConfigurer {
                 .addResourceLocations("file:"+currentPath);
     }
 
-
-
-
 }
